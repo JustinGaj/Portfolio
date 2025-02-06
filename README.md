@@ -16,10 +16,10 @@ A modern, responsive portfolio webpage showcasing my skills, experience, and pro
 
 ## 📂 Technologies Used
 
-- HTML – Structure of the website.
-- CSS – Styling, animations, and responsiveness.
-- JavaScript – Interactivity (hamburger menu toggle, smooth scrolling).
-- Google Fonts – Custom typography for a professional look.
+- **HTML** – Structure of the website.
+- **CSS** – Styling, animations, and responsiveness.
+- **JavaScript** – Interactivity (hamburger menu toggle, smooth scrolling).
+- **Google Fonts** – Custom typography for a professional look.
 
 ## 🛠️ Future Improvements
 
