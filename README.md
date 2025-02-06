@@ -4,11 +4,15 @@ A modern, responsive portfolio webpage showcasing my skills, experience, and pro
 
 ## 🚀 Features
 
-- Fully Responsive – Adapts seamlessly to different screen sizes.
-- Smooth Scrolling – Enhances user experience with animated scrolling.
-- Hamburger Menu – Mobile-friendly navigation for smaller screens.
-- Projects Showcase – Highlights my work and accomplishments.
-- Contact Form & Social Links – Allows easy communication.
+✅ Fully Responsive – Adapts seamlessly to different screen sizes.
+
+✅ Smooth Scrolling – Enhances user experience with animated scrolling.
+
+✅ Hamburger Menu – Mobile-friendly navigation for smaller screens.
+
+✅ Projects Showcase – Highlights my work and accomplishments.
+
+✅ Contact Form & Social Links – Allows easy communication.
 
 ## 📂 Technologies Used
 
